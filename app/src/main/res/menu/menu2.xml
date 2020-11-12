@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_rotation"
+        android:title="60도 회전"/>
+    <item
+        android:id="@+id/item_scale"
+        android:title="2개 버튼 확대"/>
+</menu>
